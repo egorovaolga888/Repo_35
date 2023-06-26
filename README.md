@@ -1,26 +1,26 @@
-# Repo_35
-**GitHub. HW_2**
-1. На локальном репозитории сделать ветки для:
-- Postman
-- Jmeter
-- CheckLists
-- Bag Reports
-- SQL
-- Charles
-- Mobile testing
-  Создать репозиторий в гитхаб Repo_35
-  Клонировать репозиторий в локальную папку
-  Создать любой файл на ветке main ( cat >> my_repo.txt)
-  git add .
-  git commit -m “...”
-  git push
-  git branch Postman
-  git branch BugReports
-  git branch Charles
-  git branch CheckLists
-  git branch Jmeter
-  git branch MobileTesting
-  git branch SQL
+# Repo_35\
+**GitHub. HW_2**\
+1. На локальном репозитории сделать ветки для:\
+- Postman\
+- Jmeter\
+- CheckLists\
+- Bag Reports\
+- SQL\
+- Charles\
+- Mobile testing\
+  Создать репозиторий в гитхаб Repo_35\
+  Клонировать репозиторий в локальную папку\
+  Создать любой файл на ветке main ( cat >> my_repo.txt)\
+  git add .\
+  git commit -m “...”\
+  git push\
+  git branch Postman\
+  git branch BugReports\
+  git branch Charles\
+  git branch CheckLists\
+  git branch Jmeter\
+  git branch MobileTesting\
+  git branch SQL\
 2. Запушить все ветки на внешний репозиторий
   git push origin –al (запушить ВСЕ ветки сразу)
   git push origin branche_name - запушить одну конкретную ветку
