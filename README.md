@@ -35,7 +35,7 @@
 *встать на ветку, в которую будем заливать изменения (main)\
   git checkout main\
   git merge BugReports*
-6.**Запушить main на внешний репозиторий.**\
+6. **Запушить main на внешний репозиторий.**\
   *git push*
 7. **В ветке CheckLists набросать структуру чек листа.**\
   *git checkout CheckLists\
