@@ -1,12 +1,12 @@
 # Repo_35 \
 **GitHub. HW_2** \
 1. На локальном репозитории сделать ветки для: \
-- Postman \
-- Jmeter \
-- CheckLists \
-- Bag Reports \
-- SQL \
-- Charles \
+- Postman 
+- Jmeter 
+- CheckLists 
+- Bag Reports 
+- SQL 
+- Charles 
 - Mobile testing \
   Создать репозиторий в гитхаб Repo_35 \
   Клонировать репозиторий в локальную папку \
