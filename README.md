@@ -1,13 +1,13 @@
 # Repo_35 \
 **GitHub. HW_2** 
-1. **На локальном репозитории сделать ветки для:
+1. **На локальном репозитории сделать ветки для:**
 - Postman 
 - Jmeter 
 - CheckLists 
 - Bag Reports 
 - SQL 
 - Charles 
-- Mobile testing** \
+- Mobile testing \
   *Создать репозиторий в гитхаб Repo_35 \
   Клонировать репозиторий в локальную папку \
   Создать любой файл на ветке main ( cat >> my_repo.txt) \
